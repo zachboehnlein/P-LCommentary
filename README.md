@@ -8,4 +8,8 @@ Comments vs. Projection
 Sales +$XM favorable to PIIIa on a CC basis
 MSNT: +$XM favorable to Projection on a CC basis, driven by Division1 +$XM, Division2 +$XM, Division3 +$XM, Division4 +$XM. Slightly offset by Division5 ($XM) and Division6 ($XM) 
 
+
+We do most of the formating to output this via email in Azure logic apps, but the rest of the Pyspark code in databricks gets us to a point where we can do that.
+
+
 Note: Some data is taken out/replaced for privacy reasons
